@@ -1,0 +1,13 @@
+{
+  "id": "aniliberty-stream",
+  "name": "AniLibertyStream",
+  "description": "",
+  "manifestURI": "",
+  "version": "1.0.0",
+  "author": "klim",
+  "type": "custom-source",
+  "language": "typescript",
+  "lang": "",
+  "payload": "",
+  "payloadURI": "C:\\Code\\seanime-plugins\\AniLiberty-Stream\\provider.ts"
+}
