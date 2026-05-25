@@ -25,10 +25,11 @@ class Provider implements CustomSource {
                 delete a["relations"]
                 ret.push(a)
             }
-            console.log(ids)
+            
         }
         return ret
     }
+    console.log(1)
 
     // Optionally returns the details for an anime (genres, trailer, etc.)
     // Note that not all the fields are used by the client.
