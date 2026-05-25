@@ -2,7 +2,7 @@
   "id": "aniliberty-stream",
   "name": "AniLibertyStream",
   "description": "",
-  "manifestURI": "",
+  "manifestURI": "https://raw.githubusercontent.com/Kas-Os/aniliberty-stream/main/aniliberty-stream.json",
   "version": "1.0.0",
   "author": "klim",
   "type": "custom-source",
