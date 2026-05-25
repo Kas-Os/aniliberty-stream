@@ -2,12 +2,12 @@
   "id": "aniliberty-stream",
   "name": "AniLibertyStream",
   "description": "",
-  "manifestURI": "",
+  "manifestURI": "https://raw.githubusercontent.com/Kas-Os/aniliberty-stream/refs/heads/main/aniliberty-stream.json",
   "version": "1.0.0",
   "author": "klim",
   "type": "custom-source",
   "language": "typescript",
   "lang": "",
   "payload": "",
-  "payloadURI": "C:\\Code\\seanime-plugins\\AniLiberty-Stream\\provider.ts"
+  "payloadURI": "https://raw.githubusercontent.com/Kas-Os/aniliberty-stream/refs/heads/main/provider.ts"
 }
