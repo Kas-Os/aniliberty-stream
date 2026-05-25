@@ -1,13 +1,15 @@
 {
   "id": "aniliberty-stream",
   "name": "AniLibertyStream",
-  "description": "",
-  "manifestURI": "https://raw.githubusercontent.com/Kas-Os/aniliberty-stream/main/aniliberty-stream.json",
   "version": "1.0.0",
-  "author": "klim",
-  "type": "custom-source",
+  "manifestURI": "https://raw.githubusercontent.com/Kas-Os/aniliberty-stream/main/aniliberty-stream.json",
   "language": "typescript",
-  "lang": "",
-  "payload": "",
-  "payloadURI": "https://raw.githubusercontent.com/Kas-Os/aniliberty-stream/refs/heads/main/provider.ts"
+  "type": "custom-source",
+  "description": "Implements MyAnimeList as a custom source via the unofficial Jikan API.",
+  "author": "klim",
+  "icon": "",
+  "website": "",
+  "lang": "ru",
+  "payloadURI": "https://raw.githubusercontent.com/Kas-Os/aniliberty-stream/refs/heads/main/provider.ts",
+  "isDevelopment": true
 }
