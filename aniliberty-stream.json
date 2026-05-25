@@ -11,5 +11,5 @@
   "website": "",
   "lang": "ru",
   "payloadURI": "https://raw.githubusercontent.com/Kas-Os/aniliberty-stream/refs/heads/main/provider.ts",
-  "isDevelopment": true
+  "isDevelopment": false
 }
